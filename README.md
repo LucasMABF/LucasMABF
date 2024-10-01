@@ -25,9 +25,13 @@ gained through some introductory courses and personal projects. Here are a few l
 ## GitHub Stats 🌟
 
 <div>
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmabf&layout=donut-vertical&theme=tokyonight"/>
+  <picture>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmabf&layout=donut-vertical&theme=tokyonight&exclude_repo=PAS-UnB-ranking"/>
+  </picture>
   &emsp; &emsp; &emsp; &emsp;
+  <picture>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmabf&show_icons=true&theme=tokyonight"/>
+  </picture>
 </div>
 
 <picture align="center">
