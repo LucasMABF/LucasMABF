@@ -1,42 +1,18 @@
-# Hi there, I'm Lucas Mendes! 👋
+# Lucas Mendes
 
-## About Me
+Computer Science student at the University of Brasília (UnB).
 
-I'm a computer science student at **University of Brasília(UnB)**, currently in my second semester. I'm excited for what the rest of the course holds.
-With a keen interest in technology, I'm enthusiastic about entering this field, and eager to keep learning more about software development. 
+## Interests
 
-## My interests 📚
+I'm particularly interested in Rust, cryptography, Bitcoin and open-source software.
 
-My current interests are cryptography, rust, memory and type safety, and neovim.
+I've been spending much of my time learning about memory safety, type systems,
+Bitcoin protocols, and the cryptography behind them.
 
-## Skills 💻
+I also use Linux and Neovim as my daily development environment, and enjoy
+learning about the software and open-source projects behind the tools I use.
 
-I have a solid foundation understanding of various programming languages and technologies,
-gained through some introductory courses and personal projects. Here are a few languages I've worked with so far:
-
-- Python
-- Javascript
-- HTML & CSS
-- Java
-- C
-- SQL
-- Rust
-
-## GitHub Stats 🌟
-
-<div>
-  <picture>
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmabf&layout=donut-vertical&theme=tokyonight&exclude_repo=PAS-UnB-ranking"/>
-  </picture>
-  &emsp; &emsp; &emsp; &emsp;
-  <picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmabf&show_icons=true&theme=tokyonight"/>
-  </picture>
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasmabf/lucasmabf/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasmabf/lucasmabf/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasmabf/lucasmabf/output/github-contribution-grid-snake.svg">
-</picture>
-
+Most of my time right now is spent studying. I occasionally participate in
+competitive programming and have made a few small contributions to open-source
+projects. I'd like to become more involved with open source over time
+as I gain experience.
